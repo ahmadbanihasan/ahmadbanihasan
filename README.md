@@ -1,22 +1,38 @@
-# Hey there 👋
+# 👋 Welcome to My GitHub!
 
-I'm **Ahmad Bani Hasan** 🇵🇸  
-A passionate **Software Developer** and **Content Creator** who loves building useful tools, sharing knowledge, and simplifying programming concepts in Arabic and English.
+Hi, I'm **Ahmad Bani Hasan** — a **Software Developer** and **Content Creator** from 🇵🇸 Palestine.  
+I specialize in writing clean and efficient code with **Python**, **C++**, and **Java**, and I love making educational and entertaining content to help others learn programming in a fun way!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmadbanihasan.ahmadbanihasan)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![YouTube](https://img.shields.io/badge/YouTube-Educational_Content-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ahmadbanihasan)  
+[![Instagram](https://img.shields.io/badge/Instagram-Programming_Reels-orange?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ahmadbanihasan)
 
-```python
-class DeveloperAndCreator:
+---
 
-    def __init__(self):
-        self.name = "Ahmad Bani Hasan"
-        self.role = "Programmer & Content Creator"
-        self.language_spoken = ["Arabic", "English"]
+## 🧠 My Specialties
 
-    def say_hi(self):
-        print("Thanks for visiting! I hope you enjoy my projects and content.")
+```cpp
+// C++ is where my logic begins
+#include <iostream>
+using namespace std;
 
+int main() {
+    cout << "Welcome to Ahmad's GitHub!" << endl;
+    return 0;
+}
+// Java is my foundation for object-oriented thinking
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello from Ahmad Bani Hasan!");
+    }
+}
+# Python is my tool for rapid development and automation
+class Developer:
+    def __init__(self, name):
+        self.name = name
 
-me = DeveloperAndCreator()
-me.say_hi()
+    def say_hello(self):
+        print(f"Hi, I'm {self.name}, and I love writing code!")
+
+me = Developer("Ahmad")
+me.say_hello()
