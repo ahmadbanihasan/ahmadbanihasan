@@ -33,7 +33,7 @@ I love building software and creating helpful, fun programming content for learn
 
 ## 📌 Highlight Projects
 
-> *(You can add actual GitHub repos here when you're ready)*
+
 
 - 💻 **C++ Grade Calculator** – command-line app for computing grades
 - 🧮 **Python To-Do App** – terminal-based task manager
@@ -41,12 +41,6 @@ I love building software and creating helpful, fun programming content for learn
 
 ---
 
-## 📈 GitHub Stats
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadbanihasan&show_icons=true&theme=tokyonight)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbanihasan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ---
 
