@@ -3,10 +3,6 @@
 Hi, I'm **Ahmad Bani Hasan** — a passionate **Programmer** and **Content Creator** from 🇵🇸 **Palestine**.  
 I love building software and creating helpful, fun programming content for learners of all levels.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmadbanihasan.ahmadbanihasan)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
----
 
 ## 👨‍💻 About Me
 
